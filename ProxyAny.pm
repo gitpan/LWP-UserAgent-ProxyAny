@@ -1,7 +1,7 @@
 package LWP::UserAgent::ProxyAny;
 use strict;
 use warnings;
-our $VERSION = "1.00";
+our $VERSION = "1.01";
 use base qw(LWP::UserAgent);
 
 sub env_proxy {
@@ -140,7 +140,7 @@ http://rt.cpan.org/NoAuth/ReportBug.html?Queue=LWP-UserAgent-ProxyAny
 
 L<LWP::UserAgent>
 
-=head1 COPYRIGHT
+=head1 COPYRIGHT AND LICENSE
 
 Copyright 2003-2004 Qing-Jie Zhou E<lt>qjzhou@hotmail.comE<gt>
 

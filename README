@@ -1,4 +1,4 @@
-LWP::UserAgent::ProxyAny version 1.00
+LWP::UserAgent::ProxyAny version 1.01
 ========================
 
 Extended LWP::UserAgent, which supports both HTTP_PROXY and IE proxy setting.
@@ -67,7 +67,7 @@ BUGS, REQUESTS, COMMENTS
 SEE ALSO
     LWP::UserAgent
 
-COPYRIGHT
+COPYRIGHT AND LICENSE
     Copyright 2003-2004 Qing-Jie Zhou <qjzhou@hotmail.com>
 
     This library is free software; you can redistribute it and/or modify it
